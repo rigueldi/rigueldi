@@ -2,13 +2,13 @@
 
 <div align="center">
   
-[![Typing SVG]([https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Software+Developer;UI%2FUX+Designer;Passionate+Problem+Solver](https://www.google.com/imgres?q=programmer%20gif&imgurl=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2Fv1.Y2lkPTZjMDliOTUydHh4MnlzeGM4ZTQxbzN1ZXRkOW4xNG9udDFmcHpuMDk1a2ZjMWx3aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n%2FqgQUggAC3Pfv687qPC%2Fsource.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fgirl-programmer&docid=2QLaYnbNW4gvJM&tbnid=uYYa30tHbsaH2M&vet=12ahUKEwibhPagxb6PAxVBlK8BHevCMfwQM3oECBsQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwibhPagxb6PAxVBlK8BHevCMfwQM3oECBsQAA))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Software+Developer;UI%2FUX+Designer;Tech+Enthusiast;Passionate+Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpjbThheWczNmZqbjk3OWxrNXRuMzMyajRyYWtoaXBrZGpzZjd3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)">
 
 ### 🚀 About Me
 
