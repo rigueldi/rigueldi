@@ -1,16 +1,21 @@
 <h1 align="center">Hi, I'm Riguel 👋</h1>
-<h3 align="center">A Web and Mobile Developer</h3>
+<h3 align="center">Full-Stack Web Developer | Software Developer | UI/UX Designer</h3>
 
-I'm Riguel, a fresh graduate with strong skills in **full-stack web development**.  
-I have experience building web-based systems using **PHP (Laravel, CodeIgniter), JavaScript, Vue.js, and ASP.NET**,  
-along with solid knowledge in **MySQL and PostgreSQL** for database design.  
+I'm Riguel, a fresh graduate passionate about building modern, user-friendly, and scalable applications.  
+I specialize in **full-stack web development, software development, and UI/UX design**.  
 
-I’m passionate about creating applications that are **secure, scalable, and user-friendly**.  
-I also have hands-on experience in **QA testing, frontend & backend development, and documentation** from real-world projects.  
+I enjoy working with both frontend and backend technologies, designing seamless user experiences,  
+and developing reliable solutions that solve real-world problems.  
 
 ---
 
 ### 🔧 Skills
+
+- **Web Development**: Laravel, CodeIgniter, Vue.js, ASP.NET  
+- **Software Development**: Java, Python, VB.NET, Flutter  
+- **UI/UX Design**: Responsive UI, modern design practices  
+- **Databases**: MySQL, PostgreSQL  
+- **Version Control**: Git & GitHub  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
@@ -21,10 +26,14 @@ I also have hands-on experience in **QA testing, frontend & backend development,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </p>
 
 ---
