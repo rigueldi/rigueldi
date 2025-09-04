@@ -186,7 +186,7 @@ const riguel = {
 
 <div align="center">
 
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 🎯 "If the code doesn't bother you, don't bother it."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rigueldi&label=Profile%20Views&color=brightgreen&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/rigueldi?label=Followers&style=for-the-badge&color=blue)](https://github.com/rigueldi)
