@@ -33,7 +33,7 @@ const riguel = {
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills
 
 <div align="center">
 
@@ -92,12 +92,6 @@ const riguel = {
 </tr>
 <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
     </td>
     <td align="center" width="96">
@@ -109,11 +103,33 @@ const riguel = {
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
     </td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🔧 Tools
+
+<div align="center">
+
+<table>
+<tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="48" height="48" alt="Composer" />
+        <img src="https://skillicons.dev/icons?i=sublime" width="48" height="48" alt="Sublime Text" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="48" height="48" alt="Cursor" />
     </td>
 </tr>
 </table>
