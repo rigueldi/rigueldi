@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpjbThheWczNmZqbjk3OWxrNXRuMzMyajRyYWtoaXBrZGpzZjd3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpjbThheWczNmZqbjk3OWxrNXRuMzMyajRyYWtoaXBrZGpzZjd3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 🚀 About Me
 
@@ -18,9 +18,9 @@ const riguel = {
   location: "Philippines 🇵🇭",
   status: "Fresh Graduate & Full-Stack Developer",
   expertise: ["Web Development", "UI/UX Design", "Software Development"],
-  skills: ["Laravel", "Codeigniter", "Vue.js", "React.js", "Python", "ASP.NET", "VB.NET"],
+  skills: ["Laravel", "Vue.js", "Figma"],
   databases: ["MySQL", "PostgreSQL"],
-  currentlyLearning: ["Cloud Computing", "Advanced System Design", "AI Automation"],
+  currentlyLearning: ["Advanced System Design", "AI Automation"],
   funFact: "I turn ☕ into clean, scalable code 💻"
 };
 ```
@@ -56,6 +56,10 @@ const riguel = {
         <br>Vue.js
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React.js" />
+        <br>Postman
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
         <br>PHP
     </td>
@@ -82,12 +86,12 @@ const riguel = {
         <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET" />
-        <br>ASP.NET
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="VB.NET" />
+        <br>VB.NET
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt="VB.NET" />
-        <br>VB.NET
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt="ASP.NET" />
+        <br>ASP.NET
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
@@ -109,7 +113,7 @@ const riguel = {
 <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-        <br>UI/UX
+        <br>Figma
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
@@ -128,12 +132,8 @@ const riguel = {
         <br>Dart
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
         <br>Visual Studio
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-        <br>Postman
     </td>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="48" height="48" alt="Composer" />
