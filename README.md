@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpjbThheWczNmZqbjk3OWxrNXRuMzMyajRyYWtoaXBrZGpzZjd3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpjbThheWczNmZqbjk3OWxrNXRuMzMyajRyYWtoaXBrZGpzZjd3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 🚀 About Me
 
