@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Software+Developer;UI%2FUX+Designer;Passionate+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG]([https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Software+Developer;UI%2FUX+Designer;Passionate+Problem+Solver](https://www.google.com/imgres?q=programmer%20gif&imgurl=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2Fv1.Y2lkPTZjMDliOTUydHh4MnlzeGM4ZTQxbzN1ZXRkOW4xNG9udDFmcHpuMDk1a2ZjMWx3aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n%2FqgQUggAC3Pfv687qPC%2Fsource.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fgirl-programmer&docid=2QLaYnbNW4gvJM&tbnid=uYYa30tHbsaH2M&vet=12ahUKEwibhPagxb6PAxVBlK8BHevCMfwQM3oECBsQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwibhPagxb6PAxVBlK8BHevCMfwQM3oECBsQAA))](https://git.io/typing-svg)
 
 </div>
 
@@ -14,79 +14,135 @@
 
 ```typescript
 const riguel = {
-    pronouns: "he" | "him",
-    location: "Philippines 🇵🇭",
-    status: "Fresh Graduate & Tech Enthusiast",
-    focusOn: ["Full-Stack Development", "UI/UX Design", "Clean Code"],
-    currentlyLearning: ["Advanced React Patterns", "Cloud Architecture"],
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
+  pronouns: "he" | "him",
+  location: "Philippines 🇵🇭",
+  status: "Fresh Graduate & Full-Stack Developer",
+  expertise: ["Web Development", "UI/UX Design", "Software Development"],
+  skills: ["Laravel", "Codeigniter", "Vue.js", "React.js", "Python", "ASP.NET", "VB.NET"],
+  databases: ["MySQL", "PostgreSQL"],
+  currentlyLearning: ["Cloud Computing", "Advanced System Design", "AI Automation"],
+  funFact: "I turn ☕ into clean, scalable code 💻"
 };
 ```
 
 - 🔭 I'm currently working on **exciting full-stack projects**
-- 🌱 I'm learning **cloud technologies** and **advanced system design**
+- 🌱 Continuously learning about cloud technologies and software scalability
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **Laravel, Vue.js, Flutter, or UI/UX Design**
 - ⚡ Fun fact: **I love turning coffee into code** ☕➡️💻
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-<details>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<table>
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+        <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+        <br>Vue.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+        <br>PHP
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+        <br>Laravel
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/codeigniter-icon.svg" width="48" height="48" alt="CodeIgniter" />
+        <br>CodeIgniter
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+        <br>Flutter
+    </td>
+</tr>
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET" />
+        <br>ASP.NET
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt="VB.NET" />
+        <br>VB.NET
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+        <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+        <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        <br>GitHub
+    </td>
+</tr>
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+        <br>UI/UX
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+        <br>VS Code
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+        <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+        <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+        <br>Dart
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
+        <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+        <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="48" height="48" alt="Composer" />
+        <br>Composer
+    </td>
+</tr>
+</table>
 
-</details>
-
-<details>
-<summary><b>⚙️ Backend Development</b></summary>
-<br>
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>📱 Mobile Development</b></summary>
-<br>
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🗄️ Database</b></summary>
-<br>
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🛠️ Tools & Others</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</details>
+</div>
 
 ---
 
@@ -101,10 +157,6 @@ const riguel = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rigueldi&theme=react&hide_border=true&background=0D1117&stroke=00D9FF"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rigueldi&custom_title=Riguel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
-</div>
-
 ---
 
 ### 🏆 GitHub Trophies
@@ -112,20 +164,6 @@ const riguel = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rigueldi&theme=discord&no-frame=true&no-bg=true&margin-w=4"/>
 </div>
-
----
-
-### 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Vue.js       8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.2%
-PHP          4 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   26.3%
-JavaScript   2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.1%
-CSS          1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    7.8%
-Other        17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░    1.6%
-```
-<!--END_SECTION:waka-->
 
 ---
 
@@ -148,18 +186,6 @@ Other        17 mins         ░░░░░░░░░░░░░░░░░
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riguel.developer@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rigueldi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://riguel.dev)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourhandle)
-
-</div>
-
----
-
-### 💝 Support My Work
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/riguel)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/riguel)
 
 </div>
 
@@ -174,14 +200,6 @@ Other        17 mins         ░░░░░░░░░░░░░░░░░
 [![GitHub Stars](https://img.shields.io/github/stars/rigueldi?label=Stars&style=for-the-badge&color=yellow)](https://github.com/rigueldi)
 
 ### ⭐ From [rigueldi](https://github.com/rigueldi) with ❤️
-
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-<div align="center">
 
 **Happy Coding!** 🚀✨
 
