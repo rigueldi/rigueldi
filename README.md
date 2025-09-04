@@ -8,9 +8,8 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" 
-     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpjbThheWczNmZqbjk3OWxrNXRuMzMyajRyYWtoaXBrZGpzZjd3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
-     style="border-radius:20px;" />
+<img style="border-radius:50%;" align="right" alt="Coding" width="350" 
+     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpjbThheWczNmZqbjk3OWxrNXRuMzMyajRyYWtoaXBrZGpzZjd3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 🚀 About Me
 
